@@ -57,7 +57,6 @@ The result is stored in register `$v0`:
 numero: .word 1126
 ```
 
-For the input above, the program determines whether `1126` is a Duffinian number and stores the result in `$v0`.
 
 
 For the input above, the program determines whether **1126** is a Duffinian number and stores the result in `$v0`.
