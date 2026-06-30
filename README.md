@@ -61,3 +61,6 @@ For the input above, the program determines whether `1126` is a Duffinian number
 
 
 For the input above, the program determines whether **1126** is a Duffinian number and stores the result in `$v0`.
+
+## N.B.
+The code ends with an infinite loop because the professor wanted it like this, if you prefer you can use a syscall.
